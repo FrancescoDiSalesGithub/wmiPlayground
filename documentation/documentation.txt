@@ -1,0 +1,1 @@
+https://docs.microsoft.com/it-it/windows/win32/cimwin32prov/operating-system-classes?source=recommendations
